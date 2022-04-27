@@ -1,5 +1,5 @@
 # Vaccination Service for Digital Village
-This is a web app deployed on Microsoft Azure that provides an easy vaccination management service for the village administration as part of the village digitization super-project.
+This is a web app deployed on __Microsoft Azure__ that provides an easy vaccination management service for the village administration as part of the village digitization super-project.
 
 ## About
 Digital Village, as the name suggests is a project which aims to digitize most(if not all) of
