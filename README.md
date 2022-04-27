@@ -1,5 +1,6 @@
 # Vaccination Service for Digital Village
 This is a web app deployed on __Microsoft Azure__ that provides an easy vaccination management service for the village administration as part of the village digitization super-project.
+(Entire work record on https://gitlab.com/DASS2k22/DASS2K22-Team-10)
 
 ## About
 Digital Village, as the name suggests is a project which aims to digitize most(if not all) of
